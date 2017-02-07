@@ -1,0 +1,116 @@
+#### Local###
+127.0.0.1       www.tesco.com   
+127.0.0.1       ci-mango.ngbeta.net         # Uk
+
+####PPE####
+#212.140.192.141   www.tesco.com
+#212.140.192.145   secure.tesco.com
+#212.140.192.145   secure-ppe.tesco.com
+#212.140.192.141   tesco.com
+#212.140.192.141   img.tesco.com            #DBT45
+#212.140.192.141   ui.tescoassets.com       #DBT45
+#212.140.192.141   tescoassets.com
+#212.140.192.141   secure.tesco.com         #DBT45
+#172.25.60.75      backoffice.ukroi.tesstgco.org
+
+# ighs
+127.0.0.1       nakup.itesco.cz             # Czech
+127.0.0.1       bevasarlas.tesco.hu         # Hungary
+127.0.0.1       eshop.tesco.com.my          # Malaysia
+127.0.0.1       ezakupy.tesco.pl            # Poland
+127.0.0.1       potravinydomov.itesco.sk    # Slovakia
+127.0.0.1       shoponline.tescolotus.com   # Thailand
+127.0.0.1       turkey.ighs
+
+# API URLs for Mock
+127.0.0.1       api.r.china.ighs
+127.0.0.1       api.s.china.ighs
+127.0.0.1       api.r.czech.ighs
+127.0.0.1       api.s.czech.ighs
+127.0.0.1       api.r.hungary.ighs
+127.0.0.1       api.s.hungary.ighs
+127.0.0.1       api.r.malaysia.ighs
+127.0.0.1       api.s.malaysia.ighs
+127.0.0.1       api.r.poland.ighs
+127.0.0.1       api.s.poland.ighs
+127.0.0.1       api.r.slovakia.ighs
+127.0.0.1       api.s.slovakia.ighs
+127.0.0.1       api.r.turkey.ighs
+127.0.0.1       api.s.turkey.ighs
+127.0.0.1       api.r.thailand.ighs
+127.0.0.1       api.s.thailand.ighs
+127.0.0.1       api.r.uk.ighs
+127.0.0.1       api.s.uk.ighs 
+#54.72.16.26       prd1-mango.ngtest.net
+#127.0.0.1        ci-mango.ngbeta.net
+
+#127.0.0.1 www.googletagmanager.com
+#127.0.0.1 metrics.tesco.com
+#127.0.0.1 crl.entrust.net
+127.0.0.1 smetrics.tesco.com
+127.0.0.1 142284.r.msn.com
+127.0.0.1 mailing.tesco.com
+127.0.0.1 csmailing.tesco.com
+127.0.0.1 csmailings.tesco.com
+#127.0.0.1 fls.doubleclick.net
+#127.0.0.1 ad.doubleclick.net
+#127.0.0.1 ads.pubsqrd.com
+#127.0.0.1 dev.virtualearth.net
+127.0.0.1 ecn.dev.virtualearth.net
+127.0.0.1 20513827p.rfihub.com
+127.0.0.1 tescostoresltd.tt.omtrdc.net
+127.0.0.1 cdn.tt.omtrdc.net
+#127.0.0.1  www.googletagservices.com
+#127.0.0.1 www.google-analytics.com
+127.0.0.1 tescostoresltd.tt.omtrdc.net
+127.0.0.1 dpm.demdex.net
+#127.0.0.1 www.googletagservices.com
+#127.0.0.1 tracker.tradedoubler.com
+127.0.0.1 cdn.optimizely.com
+127.0.0.1 assets.adobedtm.com
+127.0.0.1 yui.yahooapis.com
+127.0.0.1 localhost
+127.0.0.1 pi.ce-tescoassets.com
+127.0.0.1 assets.adobedtm.com
+
+
+#212.140.177.140    payment.tesco.com
+212.140.177.140    customerpayment.tesco.com
+212.140.177.200    zabezpeceni.itesco.cz
+212.140.177.201    prihlaseni.itesco.cz
+212.140.177.206    r.tesco.pl
+212.140.177.207    s.tesco.pl
+212.140.177.214    r.tesco.hu
+212.140.177.216    s.tesco.hu
+212.140.177.209    r.itesco.sk
+212.140.177.210    s.itesco.sk
+212.140.177.238    s.tesco.com.my
+212.140.177.239    r.tesco.com.my
+212.140.177.241    s.tescolotus.com
+212.140.177.242    r.tescolotus.com
+212.140.177.211    r.kipa.com.tr
+212.140.177.213    s.kipa.com.tr
+212.140.177.220    pi.ce-tescoassets.com
+212.140.177.220    assets.ce-tescoassets.com
+212.140.177.220    js.ce-tescoassets.com
+212.140.177.221    secure.ce-tescoassets.com
+212.140.177.222    pi.ap-tescoassets.com
+212.140.177.222    assets.ap-tescoassets.com
+212.140.177.222    js.ap-tescoassets.com
+212.140.177.223    secure.ap-tescoassets.com
+212.140.177.224    pi.cn-tescoassets.com
+212.140.177.224    assets.cn-tescoassets.com
+212.140.177.224    js.cn-tescoassets.com
+212.140.177.225    secure.cn-tescoassets.com
+
+
+127.0.0.1      api.s.cz.disco
+127.0.0.1      api.r.cz.disco
+127.0.0.1      api.s.hu.disco
+127.0.0.1      api.r.hu.disco  
+127.0.0.1      api.s.my.disco
+127.0.0.1      api.r.my.disco
+127.0.0.1      api.s.pl.disco  
+127.0.0.1      api.r.pl.disco
+127.0.0.1      api.s.th.disco
+127.0.0.1      api.r.th.disco
